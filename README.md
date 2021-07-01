@@ -11,7 +11,7 @@
 
 #### To try it run:
   * $ pip install -r requirements.txt
-  * python game.py
+  * $ python game.py
 
 ### For more info check diploma_presentation.pdf or tips in code
 
